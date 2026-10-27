@@ -1,0 +1,5 @@
+theme: jekyll-theme-midnight
+title: "Security Portfolio"
+description: "DevSecOps Engineer · Automated Pentest Pipelines · NIST CSF · AWS Security"
+show_downloads: false
+google_analytics:
